@@ -1,40 +1,55 @@
-body{
-  font-family: Helvetica, sans-serif;
-  text-align: center;
-}
+  body{
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+  }
 
-/* PAGE HEADING*/
-header{
-  background-image: url("../images/flatiron.png");
-  background-position: center;
-}
+  /* PAGE HEADING*/
+  header{
+    background-image: url("../images/flatiron.png");
+    background-position: center;
+  }
 
-h1{
-  color: white;
-  font-size: 70px;
-  font-weight: bold;
-}
+  h1{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+  }
 
-p a{
-  style: none;
-  color: white;
-  font-size: 18px;
-  font-weight: bold;
-}
+  p a{
+    style: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+  }
 
-/* MAIN */
-h2{
-  font-size: 32px;
-  font-weight: bold;
-}
+  /* MAIN */
+  h2{
+    font-size: 32px;
+    font-weight: bold;
+  }
 
-h3{
-  font-size: 23px;
-  font-weight: bold;
-}
+  h3{
+    font-size: 23px;
+    font-weight: bold;
+  }
 
-p{
-  font-size: 14px;
-}
+  p{
+    font-size: 14px;
+  }
 
-/* FOOTER */
+  .designed{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    background-image: url("../images/flatiron.png");
+    background-position: center;
+  }
+  /* FOOTER */
+
+  footer p{
+    color: white;
+    font-size: 11px;
+    background: dimgray;
+  }
+
+  
