@@ -2,7 +2,28 @@ body{
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
+header{
+  background-image: url("../images/flatiron.png");
+  background-position: center;
+}
+
+h1{
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
 
 ul{
   list-style-type: none;
+}
+
+li{
+  padding: 5px;
+}
+
+li a{
+  style: none;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
 }
