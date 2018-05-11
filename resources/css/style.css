@@ -6,13 +6,22 @@
   /* PAGE HEADING*/
   header{
     background-image: url("../images/flatiron.png");
+    background-repeat: no-repeat;
+    background-size: auto;
     background-position: center;
+    border-radius: 50px;
   }
 
   h1{
     color: white;
     font-size: 70px;
     font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: 25px;
+  }
+
+  #top-nav{
+    padding-bottom: 10px;
   }
 
   p a{
@@ -43,6 +52,7 @@
     font-weight: bold;
     background-image: url("../images/flatiron.png");
     background-position: center;
+    border-radius: 10px;
   }
   /* FOOTER */
 
@@ -50,6 +60,5 @@
     color: white;
     font-size: 11px;
     background: dimgray;
+    border-radius: 7px;
   }
-
-  
